@@ -5,7 +5,7 @@ Colors
 #142b4d // Navy blue
 #677ca1 // Sky blue
 #7b5d96 // Violet
-#d6d6b0 // Yello light
+#d6d6b0 // Yellow light
 #d2a69e // pink
 #b7401f // orange
 

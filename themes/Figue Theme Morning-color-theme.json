@@ -1,7 +1,7 @@
 {
-	"name": "Figue Theme Night",
+	"name": "Figue Theme Morning",
 	"colors": {
-		"editor.background": "#28281c",
+		"editor.background": "#f4f4a6",
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#3b2a49",
 		"activityBar.activeBackground": "#3b2a49",
