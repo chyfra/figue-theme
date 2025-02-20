@@ -18,7 +18,7 @@
       },
       {
         "label": "Figue Theme Morning",
-        "uiTheme": "vs-dark",
+        "uiTheme": "vs",
         "path": "./themes/Figue Theme Morning-color-theme.json"
       }
     ]

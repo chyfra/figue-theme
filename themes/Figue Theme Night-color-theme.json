@@ -1,16 +1,16 @@
 {
 	"name": "Figue Theme Night",
 	"colors": {
-		"editor.background": "#28281c",
+		"editor.background": "#2b2613",
 		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#3b2a49",
-		"activityBar.activeBackground": "#3b2a49",
-		"statusBar.background": "#3b2a49",
+		"activityBarBadge.background": "#8d348f",
+		"activityBar.activeBackground": "#5e4374",
+		"statusBar.background": "#523867",
 		"activityBar.background": "#3b2a49",
 		"activityBarBadge.foreground": "#eeffff",
-		"sideBarTitle.background": "#3b2a49",
-		"sideBar.background": "#232316",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"sideBarTitle.background": "#523867",
+		"sideBar.background": "#242010",
+		"sideBarTitle.foreground": "#eeffff"
 	},
 	"tokenColors": [
 		{
@@ -21,7 +21,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#a070b8"
+				"foreground": "#ab96b6"
 			}
 		},
 		{
@@ -31,7 +31,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#e0e3ce"
+				"foreground": "#e3f667"
 			}
 		},
 		{
@@ -62,7 +62,8 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#9cae1d"
+				"foreground": "#78d60d",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -82,7 +83,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#73b2e7"
+				"foreground": "#6fd3ef"
 			}
 		},
 		{
@@ -106,7 +107,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#dbca9e"
+				"foreground": "#f3f6d6"
 			}
 		},
 		{
@@ -115,7 +116,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#d2a69e"
+				"foreground": "#f3bc75"
 			}
 		},
 		{
@@ -156,7 +157,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#ffd027"
+				"foreground": "#fbcd2a"
 			}
 		},
 		{
@@ -172,7 +173,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#c75040"
+				"foreground": "#ff78e6"
 			}
 		},
 		{
@@ -181,7 +182,8 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#a48433"
+				"foreground": "#f4f449",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -215,8 +217,7 @@
 				"variable.language"
 			],
 			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#FF5370"
+				"foreground": "#ff5d73"
 			}
 		},
 		{
