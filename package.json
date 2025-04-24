@@ -1,7 +1,8 @@
 {
   "name": "figue-theme",
   "displayName": "figue-theme",
-  "description": "",
+  "description": "A soothing dark and vibrant light theme inspired by fig colors and the Mediterranean, designed for comfortable coding.",
+  "publisher": "chyfra",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.94.0"
