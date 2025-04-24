@@ -5,6 +5,7 @@
   "publisher": "chyfra",
   "repository": "https://github.com/chyfra/figue-theme",
   "version": "0.0.1",
+  "icon": "./img/logo.jpeg",
   "engines": {
     "vscode": "^1.94.0"
   },
