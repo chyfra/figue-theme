@@ -1,5 +1,7 @@
 # Figue Theme
 
+**⚠ Please note, this theme is still a work in progress, your feedback will be very welcome!**
+
 A soothing dark and vibrant light theme for Visual Studio Code, inspired by the rich colors of figs and the sun-drenched Mediterranean landscape.
 
 ## Overview
@@ -18,6 +20,14 @@ The goal of Figue Theme is to create a harmonious visual environment that is bot
 * **Work in Progress:** This theme is actively being developed and refined, with ongoing improvements and potential new features.
 
 ## Screenshots
+
+Below a screenshot of the light theme (Figue Theme Morning)
+
+![Morning theme (light mode)](https://github.com/chyfra/figue-theme/blob/6092948e9f60795738c2fa5d4e06c547ad38a16a/img/figue-theme-morning.png)
+
+Below a screenshot of the dark theme (Figue Theme Night)
+
+![Night theme (dark mode)](https://github.com/chyfra/figue-theme/blob/6092948e9f60795738c2fa5d4e06c547ad38a16a/img/figue-theme-night.png)
 
 
 ## Installation
