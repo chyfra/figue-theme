@@ -4,7 +4,7 @@
   "description": "A soothing dark and vibrant light theme inspired by fig colors and the Mediterranean, designed for comfortable coding.",
   "publisher": "chyfra",
   "repository": "https://github.com/chyfra/figue-theme",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "icon": "./img/logo.jpeg",
   "engines": {
     "vscode": "^1.94.0"

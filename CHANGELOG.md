@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.0.5
+
+- Improve light mode UI + code tokens improvements (CSS, MD, JS)
+
 ## 0.0.4
 
 - Improve the light mode UI
