@@ -1,5 +1,11 @@
 # Change Log
 
+## 0.0.6
+
+- Improve some hover effects + UI items in morning mode
+- Improve the dark theme UI and some code elements
+- Fix broken captures/screenshots links
+
 ## 0.0.5
 
 - Improve light mode UI + code tokens improvements (CSS, MD, JS)

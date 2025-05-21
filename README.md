@@ -1,34 +1,35 @@
 # Figue Theme
 
+![Figue Theme screenshot preview](https://raw.githubusercontent.com/chyfra/figue-theme/master/img/figue-theme-presentation-image.png)
+
 **⚠ Please note, this theme is still a work in progress, your feedback will be very welcome!**
 
 A soothing dark and vibrant light theme for Visual Studio Code, inspired by the rich colors of figs and the sun-drenched Mediterranean landscape.
 
 ## Overview
 
-* **Figue Theme Night:** A dark theme that prioritizes reduced eye strain with a warm, yellowish base and pops of fig-inspired purples, greens, and browns for syntax highlighting.
-* **Figue Theme Morning:** A bright and airy theme that maintains readability with a soft yellow undertone, accented by the vibrant hues of ripe figs.
+- **Figue Theme Night:** A dark theme that prioritizes reduced eye strain with a warm, yellowish base and pops of fig-inspired purples, greens, and browns for syntax highlighting.
+- **Figue Theme Morning:** A bright and airy theme that maintains readability with a soft yellow undertone, accented by the vibrant hues of ripe figs.
 
 The goal of Figue Theme is to create a harmonious visual environment that is both easy on the eyes and aesthetically pleasing, drawing inspiration from the natural beauty of the Mediterranean.
 
 ## Features
 
-* **Dual Theme Support:** Includes both a thoughtfully crafted dark mode and a vibrant light mode.
-* **Reduced Eye Strain:** The yellowish base palette in both themes aims to minimize eye fatigue during long coding sessions.
-* **Fig-Inspired Colors:** Syntax highlighting incorporates colors reminiscent of different fig varieties – from deep purples and rich browns to subtle greens and rosy hues – creating a coherent and visually interesting experience.
-* **Mediterranean Inspiration:** The overall color choices evoke the warmth and vibrancy of the Mediterranean, bringing a touch of that atmosphere to your coding environment.
-* **Work in Progress:** This theme is actively being developed and refined, with ongoing improvements and potential new features.
+- **Dual Theme Support:** Includes both a thoughtfully crafted dark mode and a vibrant light mode.
+- **Reduced Eye Strain:** The yellowish base palette in both themes aims to minimize eye fatigue during long coding sessions.
+- **Fig-Inspired Colors:** Syntax highlighting incorporates colors reminiscent of different fig varieties – from deep purples and rich browns to subtle greens and rosy hues – creating a coherent and visually interesting experience.
+- **Mediterranean Inspiration:** The overall color choices evoke the warmth and vibrancy of the Mediterranean, bringing a touch of that atmosphere to your coding environment.
+- **Work in Progress:** This theme is actively being developed and refined, with ongoing improvements and potential new features.
 
-## Screenshots
+## Captures
 
-Below a screenshot of the light theme (Figue Theme Morning)
+Below a capture of the light theme (Figue Theme Morning)
 
-![Morning theme (light mode)](https://github.com/chyfra/figue-theme/blob/6092948e9f60795738c2fa5d4e06c547ad38a16a/img/figue-theme-morning.png)
+![Morning theme (light mode)](https://raw.githubusercontent.com/chyfra/figue-theme/master/img/figue-theme-morning-theme-capture.gif)
 
-Below a screenshot of the dark theme (Figue Theme Night)
+Below a capture of the dark theme (Figue Theme Night)
 
-![Night theme (dark mode)](https://github.com/chyfra/figue-theme/blob/6092948e9f60795738c2fa5d4e06c547ad38a16a/img/figue-theme-night.png)
-
+![Night theme (dark mode)](https://raw.githubusercontent.com/chyfra/figue-theme/master/img/figue-theme-night-theme-capture.gif)
 
 ## Installation
 
@@ -39,7 +40,7 @@ Below a screenshot of the dark theme (Figue Theme Night)
 
 ## Contributing
 
-*(Optional, but recommended if you plan to involve the community)*
+_(Optional, but recommended if you plan to involve the community)_
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on [your GitHub repository link here].
 
