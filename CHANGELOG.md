@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.0.3
+
+- Fix the theme name
+- Improve colors for the morning theme for md and json files
+
 ## 0.0.2
 
 - Added a basic generated logo for now
