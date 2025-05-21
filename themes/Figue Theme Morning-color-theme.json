@@ -1,6 +1,7 @@
 {
   "name": "Figue Theme Morning",
   "colors": {
+    // Editor main colors
     "editor.background": "#ffd899",
     "editor.foreground": "#073a3a",
     "editor.wordHighlightBackground": "#ff000055",
@@ -8,27 +9,39 @@
     "editor.selectionHighlightBackground": "#ff400055",
     "editor.selectionBackground": "#ff00d055",
     "editor.wordHighlightStrongBackground": "#2fa80e55",
+    // UI activity bar (bottom bar)
     "activityBarBadge.background": "#f16283",
     "activityBar.activeBackground": "#b17edc",
     "statusBar.background": "#9243d3",
     "activityBar.background": "#8e62b3",
     "activityBarBadge.foreground": "#f9ebff",
-    "sideBarTitle.background": "#754b98",
-    "sideBar.background": "#fae2ba",
-    "sideBarTitle.foreground": "#f9ebff",
     "badge.foreground": "#f9ebff",
+    // UI elements > Buttons
     "button.foreground": "#f9ebff",
+    "button.background": "#f16283",
+    "button.secondaryBackground": "#f9cea8",
+    "button.secondaryForeground": "#644326",
+    "button.hoverBackground": "#f1446d",
+    // UI > Icons color
+    "icon.foreground": "#5a3677",
+    // UI > side bar title
     "sideBar.foreground": "#5a3677",
+    "sideBarSectionHeader.foreground": "#5a3677",
+    "sideBarTitle.background": "#f9cea8",
+    "sideBar.background": "#fae2ba",
+    // UI > tree
     "tree.indentGuidesStroke": "#f16283",
     "badge.background": "#f16283",
-    "button.background": "#f16283",
     "textLink.foreground": "#f16283",
+    "textLink.activeForeground": "#f12f5c",
+    // Code Settings page
     "settings.modifiedItemIndicator": "#f16283",
     "settings.focusedRowBorder": "#f16283",
     "settings.textInputBackground": "#f8f3eb",
     "settings.checkboxBackground": "#f8f3eb",
     "settings.dropdownBackground": "#f8f3eb",
-    "input.background": "#f8f3eb",
+    // UI elements > input
+    "input.background": "#ffd899",
     "list.activeSelectionBackground": "#f8a862",
     "focusBorder": "#f8a862",
     "list.inactiveSelectionBackground": "#f9cea8",
@@ -38,14 +51,60 @@
     "gitDecoration.untrackedResourceForeground": "#1e6e08",
     "editorGroupHeader.tabsBackground": "#fae2ba",
     "editorSuggestWidget.background": "#fae2ba",
-    "editorHoverWidget.background": "#fae2ba",
+    // UI > pop up items
+    "editorWidget.background": "#ffe7c1",
+    "editorWidget.border": "#f16283",
+    "editorWidget.foreground": "#5a3677",
+    "toolbar.hoverBackground": "#ff400030",
+    // UI > Debug toolbar
+    "debugToolBar.background": "#ffe7c1",
+    "debugToolBar.border": "#e9a9b8",
+    // UI > Minimap hover
+    "minimapSlider.background": "#ff400030",
+    "minimapSlider.hoverBackground": "#ff400030",
+    "minimapSlider.activeBackground": "#ff400055",
+    "minimap.background": "#ff400010",
+    // Editor > folded item
+    "editor.foldBackground": "#8e62b330",
+    // UI > Hover widget
+    "editorHoverWidget.background": "#ffd29e",
     "editorSuggestWidget.border": "#f16283",
-    "editorHoverWidget.border": "#fae2ba",
+    "editorHoverWidget.border": "#f16283",
+    // UI > Tabs
     "tab.activeBackground": "#ffd899",
     "tab.inactiveBackground": "#f9cea8",
     "tab.hoverBackground": "#fbd7b8",
     "titleBar.activeBackground": "#8e62b3",
     "titleBar.activeForeground": "#f9ebff",
+    // Overlay items > Notifications
+    "notificationToast.border": "#f16283",
+    "notifications.background": "#ffd899",
+    "notifications.foreground": "#073a3a",
+    "notificationsInfoIcon.foreground": "#f16283",
+    // UI elements > Select dropdown background
+    "dropdown.listBackground": "#ffd899",
+    // Overlay items > Command palette/files
+    "quickInput.background": "#ffe7c1",
+    "quickInput.foreground": "#5a3677",
+    // UI > Menu
+    "menu.background": "#ffe7c1",
+    "menu.foreground": "#5a3677",
+    "menu.separatorBackground": "#dfb088",
+    // UI > Peek (embedded)
+    "peekView.border": "#f16283",
+    "peekViewEditor.background": "#fcdca9",
+    "peekViewEditorGutter.background": "#fcdca9",
+    "peekViewTitle.background": "#ffe7c1",
+    "peekViewResult.background": "#ffe7c1",
+    "peekViewResult.fileForeground": "#5a3677",
+    "peekViewResult.lineForeground": "#f16283",
+    "peekViewTitleLabel.foreground": "#5a3677",
+    // Match color (peek)
+    "peekViewEditor.matchHighlightBackground": "#fcc224",
+    "peekViewEditor.matchHighlightBorder": "#fcb824",
+    // UI > Top bar
+    "commandCenter.activeBackground": "#b17edc",
+    "listFilterWidget.background": "#ffd899",
     "tab.border": "#dfb088"
   },
   "tokenColors": [

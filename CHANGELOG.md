@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.0.4
+
+- Improve the light mode UI
+
 ## 0.0.3
 
 - Fix the theme name
