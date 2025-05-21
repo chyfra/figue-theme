@@ -4,11 +4,11 @@
     // Editor main colors
     "editor.background": "#ffd899",
     "editor.foreground": "#073a3a",
-    "editor.wordHighlightBackground": "#ff000055",
-    "editor.lineHighlightBackground": "#ffc999",
-    "editor.selectionHighlightBackground": "#ff400055",
-    "editor.selectionBackground": "#ff00d055",
-    "editor.wordHighlightStrongBackground": "#2fa80e55",
+    "editor.wordHighlightBackground": "#ff000015",
+    "editor.lineHighlightBackground": "#fcd789",
+    "editor.selectionHighlightBackground": "#ff400045",
+    "editor.selectionBackground": "#ff00d045",
+    "editor.wordHighlightStrongBackground": "#2fa80e15",
     // UI activity bar (bottom bar)
     "activityBarBadge.background": "#f16283",
     "activityBar.activeBackground": "#b17edc",
@@ -120,14 +120,14 @@
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
-        "foreground": "#8d9c36"
+        "foreground": "#606d17"
       }
     },
     {
       "name": "Colors",
       "scope": ["constant.other.color"],
       "settings": {
-        "foreground": "#7f940c"
+        "foreground": "#606d17"
       }
     },
     {
@@ -162,7 +162,7 @@
         "keyword.other.substitution"
       ],
       "settings": {
-        "foreground": "#8327df"
+        "foreground": "#714397"
       }
     },
     {
@@ -173,7 +173,7 @@
         "markup.deleted.git_gutter"
       ],
       "settings": {
-        "foreground": "#ebaea3"
+        "foreground": "#92574c"
       }
     },
     {
@@ -216,7 +216,7 @@
         "keyword.other"
       ],
       "settings": {
-        "foreground": "#F78C6C"
+        "foreground": "#db6642"
       }
     },
     {
@@ -254,7 +254,7 @@
       "name": "Entity Types",
       "scope": ["support.type"],
       "settings": {
-        "foreground": "#206587",
+        "foreground": "#406db1",
         "fontStyle": "italic"
       }
     },
@@ -269,7 +269,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#acbdd6"
+        "foreground": "#406db1"
       }
     },
     {
@@ -313,7 +313,7 @@
       "name": "Attributes",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#846897"
       }
     },
     {
@@ -324,14 +324,14 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#FFCB6B"
+        "foreground": "#d89416"
       }
     },
     {
       "name": "CSS Classes",
       "scope": ["entity.other.attribute-name.class"],
       "settings": {
-        "foreground": "#FFCB6B"
+        "foreground": "#d89416"
       }
     },
     {
@@ -345,7 +345,7 @@
       "name": "Inserted",
       "scope": ["markup.inserted"],
       "settings": {
-        "foreground": "#C3E88D"
+        "foreground": "#846897"
       }
     },
     {
@@ -492,14 +492,14 @@
         "punctuation.definition.list_item.markdown"
       ],
       "settings": {
-        "foreground": "#2a7a11"
+        "foreground": "#5e5535"
       }
     },
     {
       "name": "Markdown - Markup Raw Inline",
       "scope": ["text.html.markdown markup.inline.raw.markdown"],
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#406db1"
       }
     },
     {
@@ -519,7 +519,7 @@
         "markup.heading.markdown punctuation.definition.heading.markdown"
       ],
       "settings": {
-        "foreground": "#C3E88D"
+        "foreground": "#846897"
       }
     },
     {
@@ -558,7 +558,7 @@
       "scope": ["markup.underline"],
       "settings": {
         "fontStyle": "underline",
-        "foreground": "#F78C6C"
+        "foreground": "#ca3038"
       }
     },
     {
@@ -579,28 +579,28 @@
       "name": "Markdown - Link",
       "scope": ["string.other.link.title.markdown"],
       "settings": {
-        "foreground": "#82AAFF"
+        "foreground": "#406db1"
       }
     },
     {
       "name": "Markdown - Link Description",
       "scope": ["string.other.link.description.title.markdown"],
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#c171f7"
       }
     },
     {
       "name": "Markdown - Link Anchor",
       "scope": ["constant.other.reference.link.markdown"],
       "settings": {
-        "foreground": "#FFCB6B"
+        "foreground": "#d89416"
       }
     },
     {
       "name": "Markup - Raw Block",
       "scope": ["markup.raw.block"],
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#c171f7"
       }
     },
     {
