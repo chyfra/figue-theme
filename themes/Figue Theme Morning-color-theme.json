@@ -18,10 +18,12 @@
     // UI activity bar (bottom bar)
     "activityBarBadge.background": "#f16283",
     "activityBar.activeBackground": "#ffffff25",
-    "statusBar.background": "#9243d3",
     "activityBar.background": "#8e62b3",
     "activityBarBadge.foreground": "#f9ebff",
     "badge.foreground": "#f9ebff",
+    // UI footer/status bar
+    "statusBar.background": "#9243d3",
+    "statusBarItem.warningBackground": "#fbce2a71",
     // UI elements > Buttons
     "button.foreground": "#f9ebff",
     "button.background": "#f16283",

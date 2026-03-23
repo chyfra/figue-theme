@@ -17,11 +17,13 @@
     "editorStickyScrollHover.background": "#ff000015",
     // UI activity bar (bottom bar)
     "activityBarBadge.background": "#8d348f",
-    "activityBar.activeBackground": "#5e4374",
-    "statusBar.background": "#523867",
+    "activityBar.activeBackground": "#5e43744d",
     "activityBar.background": "#3b2a49",
     "activityBarBadge.foreground": "#eeffff",
     "badge.foreground": "#f9ebff",
+    // UI footer/status bar
+    "statusBar.background": "#523867",
+    "statusBarItem.warningBackground": "#fbce2a8a",
     // UI elements > Buttons
     "button.foreground": "#f9ebff",
     "button.background": "#bd62f1",

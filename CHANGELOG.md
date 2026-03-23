@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.0.7
+
+- Fix Hover effects in night theme
+- Fix warning color for footer elements in morning mode
+
 ## 0.0.6
 
 - Improve some hover effects + UI items in morning mode
