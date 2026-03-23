@@ -33,25 +33,19 @@ Below a capture of the dark theme (Figue Theme Night)
 
 ## Installation
 
-1.  Open **Extensions** in VS Code (Ctrl+Shift+X or Cmd+Shift+X).
-2.  Search for `Figue Theme`.
-3.  Click **Install** and then **Reload**.
-4.  Go to **File** > **Preferences** > **Color Theme** and select either "Figue Dark" or "Figue Light".
+1. Open **Extensions** in VS Code (Ctrl+Shift+X or Cmd+Shift+X).
+2. Search for `Figue Theme`.
+3. Click **Install** and then **Reload**.
+4. Go to **File** > **Preferences** > **Color Theme** and select either "Figue Dark" or "Figue Light".
 
 ## Contributing
 
-_(Optional, but recommended if you plan to involve the community)_
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on [your GitHub repository link here].
+Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on [your GitHub repository link here](https://github.com/chyfra/figue-theme/pulls).
 
 ## Issues
 
-If you encounter any problems or have feedback, please don't hesitate to [report an issue on GitHub](your GitHub repository link here/issues).
+If you encounter any problems or have feedback, please don't hesitate to [report an issue on GitHub](https://github.com/chyfra/figue-theme/issues).
 
 ## Stay Updated
 
 Follow the development of Figue Theme for updates and new releases!
-
----
-
-Enjoy the refreshing and eye-friendly experience of Figue Theme!
